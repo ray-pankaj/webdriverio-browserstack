@@ -8,5 +8,6 @@ script:
 
 addons:
   browserstack:
-    username: 'pankajahuja1'
-    access_key: 'aCxhDStUopf8tsyz4d55'
+    username: "pankajahuja1"
+    access_key:
+      secure: "m7W0MMpLBDwMqjYOsLsvlKRuNtEHKF916CpF1spJ7RTYXtDZ4XthD6rBBiizrv7bRUz+0ER5Qpo9EkLXASJ2/bGgmWSATF3aQaBXZm75VNdjU2AmQvJLzvxM4yydEKb3iN1FusawI2YBWpHz/yAIZHfOabYH16Jm1Wt0CtqUHqDAnysYavGW4ghe8maGc+jTyiOMAIepW4KnKCcagGoGhTAkupZnRcPhCA/vV/WiUH1iWywDLKKawKBnOqC0kTAGOnUCl7DmfE78oju9avdGEGeeXudpqDb+/VqXq7oSGE8C1vZLtaKprGeQafXxyY0ca9u7DOr6aptCxLpl5tTLy/qPAUkqz3c+pBVu9j4eQXzLuCCo8bbsLkCaDENrKH1aTgCE80oofy04atLUGEYgiAQpjAZXGlAueeVBMkVUNc3NZVCGHtgtRS4wrhcd+yukfS6WKZAnzm7HYfPlTUdMw1vDyjt2Uk5Wn2lu5ye3v/LyRet/ijgg/PABOfF5YANI2MNxw9vwRGChatO1HonRpfBWRisTL2CvrHNDta+LiVnTzdqXoF0/TIugtwhICcUhphKlJAJlObutmwoAR9fyDKFVGA1gITzuR6xuORlICmYWfVEx+GZ9fZYg+VGzwaCGbZPRciq2hUtAQ14H2tQcaCGUpg/YKxGHBvjVnADiwRM="
